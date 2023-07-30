@@ -255,76 +255,71 @@ ul {
 /* ============= PROJECT CSS =============== */
 
 .menu {
-  padding: 5rem 0;
+  padding:5rem 0
 }
-
 .btn-container {
-  margin: 2rem 0 4rem 0;
-  display: flex;
+  margin:2rem 0 4rem 0;
+  display:flex;
   justify-content: center;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap:1rem
 }
-.section-center {
-  width: 90vw;
+.section-center{
+  width:90vw;
   margin: 0 auto;
   max-width: var(--max-width);
-  display: grid;
-  gap: 2rem;
+  display:grid;
+  gap:2rem
 }
-
-.menu-item {
-  background: var(--white);
+.menu-item{
+  background-color: var(--white);
   border-radius: var(--borderRadius);
 }
-.menu-item .img {
-  height: 15rem;
-  border-top-right-radius: var(--borderRadius);
+.menu-item img {
+  height:15rem;
   border-top-left-radius: var(--borderRadius);
+  border-top-right-radius: var(--borderRadius);
 }
 .item-info {
-  padding: 1.5rem;
+  padding:1.5rem
 }
 .item-info header {
-  display: flex;
+  display:flex;
   justify-content: space-between;
   flex-wrap: wrap;
-  gap: 1rem;
+  gap:1rem;
   margin-bottom: 1.25rem;
 }
-
 .item-info h5 {
-  font-weight: 500;
+  font-weight:500
 }
-.item-price {
-  background: var(--primary-500);
-  color: var(--white);
-  padding: 0.25rem 0.5rem;
+.item-price{
+  background:var(--primary-500);
+  color:var(--white);
+  padding:0.25rem 0.5rem;
   letter-spacing: var(--letterSpacing);
   border-radius: var(--borderRadius);
 }
-
-.item-text {
-  line-height: 2;
-  color: var(--grey-500);
+.item-text{
+  line-height:2;
+  color:var(--grey-500)
 }
-
-.section-center {
+.section-center{
   justify-items: center;
 }
-.menu-item {
-  max-width: 25rem;
+.menu-item{
+  max-width:35rem
 }
-
-@media screen and (min-width: 992px) {
-  .section-center {
+@media screen and (min-width: 800px){
+  .section-center{
     grid-template-columns: 1fr 1fr;
-    align-items: start;
+   
   }
+    
 }
-@media screen and (min-width: 1170px) {
-  .section-center {
-    width: 95vw;
+@media screen and (min-width: 1170px){
+  .section-center{
     grid-template-columns: repeat(3, 1fr);
+    width: 95vw;
   }
 }
