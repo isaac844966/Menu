@@ -8,7 +8,7 @@ const Navbar = () => {
         <div className='logo'>S</div>
         <div>
           <a
-            href={`https://wa.me/${2349029851346}`}
+            href={`https://wa.me/${2347087536021}`}
             target='_blank'
             // ref='noopener noreferrer'
           >
