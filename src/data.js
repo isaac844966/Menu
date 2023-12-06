@@ -49,7 +49,7 @@ const menu = [
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
-    id: 2,
+    id: 3,
     title: "diner double",
     category: "Tv",
     price: 13.99,
@@ -57,7 +57,7 @@ const menu = [
     desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
   },
   {
-    id: 3,
+    id: 4,
     title: "godzilla milkshake",
     category: "Gas Cooker",
     price: 6.99,
@@ -65,7 +65,7 @@ const menu = [
     desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
   },
   {
-    id: 3,
+    id: 5,
     title: "godzilla milkshake",
     category: "Gen",
     price: 6.99,
@@ -73,7 +73,7 @@ const menu = [
     desc: `ombucha chillwave fanny pack 3 wolf moon street art photo booth before they sold out organic viral.`,
   },
   {
-    id: 4,
+    id: 6,
     title: "country delight",
     category: "Tv",
     price: 20.99,
@@ -81,7 +81,7 @@ const menu = [
     desc: `Shabby chic keffiyeh neutra snackwave pork belly shoreditch. Prism austin mlkshk truffaut, `,
   },
   {
-    id: 5,
+    id: 7,
     title: "egg attack",
     category: "Refrigerator",
     price: 22.99,
@@ -89,7 +89,7 @@ const menu = [
     desc: `franzen vegan pabst bicycle rights kickstarter pinterest meditation farm-to-table 90's pop-up `,
   },
   {
-    id: 6,
+    id: 8,
     title: "oreo dream",
     category: "Gas Cooker",
     price: 18.99,
@@ -97,7 +97,7 @@ const menu = [
     desc: `Portland chicharrones ethical edison bulb, palo santo craft beer chia heirloom iPhone everyday`,
   },
   {
-    id: 7,
+    id: 9,
     title: "bacon overflow",
     category: "Gas Cooker",
     price: 8.99,
@@ -105,7 +105,7 @@ const menu = [
     desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
   },
   {
-    id: 7,
+    id: 10,
     title: "bacon overflow",
     category: "Gen",
     price: 8.99,
@@ -113,7 +113,7 @@ const menu = [
     desc: `carry jianbing normcore freegan. Viral single-origin coffee live-edge, pork belly cloud bread iceland put a bird `,
   },
   {
-    id: 8,
+    id: 11,
     title: "american classic",
     category: "Refrigerator",
     price: 12.99,
@@ -121,7 +121,7 @@ const menu = [
     desc: `on it tumblr kickstarter thundercats migas everyday carry squid palo santo leggings. Food truck truffaut  `,
   },
   {
-    id: 9,
+    id: 12,
     title: "quarantine buddy",
     category: "Tv",
     price: 16.99,
@@ -129,7 +129,7 @@ const menu = [
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
-    id: 9,
+    id: 13,
     title: "quarantine buddy",
     category: "Gen",
     price: 16.99,
@@ -137,7 +137,7 @@ const menu = [
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
-    id: 10,
+    id: 14,
     title: "quarantine buddy",
     category: "AC",
     price: 16.99,
@@ -145,7 +145,7 @@ const menu = [
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
-    id: 11,
+    id: 15,
     title: "quarantine buddy",
     category: "AC",
     price: 16.99,
@@ -153,7 +153,7 @@ const menu = [
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
-    id: 12,
+    id: 16,
     title: "quarantine buddy",
     category: "AC",
     price: 16.99,
@@ -161,7 +161,7 @@ const menu = [
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
-    id: 12,
+    id: 17,
     title: "quarantine buddy",
     category: "Gen",
     price: 16.99,
@@ -169,7 +169,7 @@ const menu = [
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
-    id: 13,
+    id: 18,
     title: "quarantine buddy",
     category: "XBOOM",
     price: 16.99,
@@ -177,7 +177,7 @@ const menu = [
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
-    id: 14,
+    id: 19,
     title: "quarantine buddy",
     category: "XBOOM",
     price: 16.99,
@@ -185,7 +185,7 @@ const menu = [
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
-    id: 14,
+    id: 20,
     title: "quarantine buddy",
     category: "Gen",
     price: 16.99,
@@ -193,7 +193,7 @@ const menu = [
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
-    id: 15,
+    id: 21,
     title: "quarantine buddy",
     category: "XBOOM",
     price: 16.99,
@@ -201,7 +201,7 @@ const menu = [
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
-    id: 16,
+    id: 22,
     title: "quarantine buddy",
     category: "Tv",
     price: 16.99,
@@ -209,7 +209,7 @@ const menu = [
     desc: `skateboard fam synth authentic semiotics. Live-edge lyft af, edison bulb yuccie crucifix microdosing.`,
   },
   {
-    id: 16,
+    id: 23,
     title: "quarantine buddy",
     category: "Gen",
     price: 16.99,
