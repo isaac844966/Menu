@@ -1,6 +1,3 @@
-import img2 from "./assets/images/img2.jpg";
-import img3 from "./assets/images/img3.jpg";
-
 import TV1 from "./assets/images/Tv1.jpeg";
 import TV2 from "./assets/images/Tv2.jpeg";
 import TV3 from "./assets/images/Tv3.jpeg";
@@ -28,7 +25,7 @@ import Gen1 from "./assets/images/Gen1.jpeg";
 import Gen2 from "./assets/images/Gen2.jpeg";
 import Gen3 from "./assets/images/Gen3.jpeg";
 import Gen4 from "./assets/images/Gen4.jpeg";
-import Gen5 from "./assets/images/Gen5.jpeg";
+import Refrigerator from "./assets/images/Refrigerator.jpeg";
 import Gen6 from "./assets/images/Gen6.jpeg";
 
 const menu = [
@@ -188,9 +185,9 @@ const menu = [
   {
     id: 20,
     title: "Gen",
-    category: "Gen",
+    category: "Refrigerator",
     price: 15.99,
-    img: Gen5,
+    img: Refrigerator,
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
@@ -231,6 +228,38 @@ const menu = [
     category: "TV",
     price: 15.99,
     img: TV10,
+    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+  },
+  {
+    id: 26,
+    title: "TV",
+    category: "TV",
+    price: 15.99,
+    img: TV11,
+    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+  },
+  {
+    id: 27,
+    title: "TV",
+    category: "TV",
+    price: 15.99,
+    img: TV12,
+    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+  },
+  {
+    id: 28,
+    title: "TV",
+    category: "TV",
+    price: 15.99,
+    img: TV13,
+    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+  },
+  {
+    id: 29,
+    title: "TV",
+    category: "TV",
+    price: 15.99,
+    img: TV14,
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
 ];
