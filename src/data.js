@@ -12,7 +12,7 @@ import TV8 from "./assets/images/Tv8.jpeg";
 import TV9 from "./assets/images/Tv9.jpeg";
 import TV10 from "./assets/images/Tv10.jpeg";
 import TV11 from "./assets/images/Tv11.jpeg";
-import TV12 from "./assets/images/TV12.jpeg";
+import TV12 from "./assets/images/Tv12.jpeg";
 import TV13 from "./assets/images/Tv13.jpeg";
 import TV14 from "./assets/images/Tv14.jpeg";
 import AC1 from "./assets/images/AC1.jpeg";
