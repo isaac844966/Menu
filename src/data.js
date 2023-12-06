@@ -109,7 +109,7 @@ const menu = [
     title: "Refrigerator",
     category: "Refrigerator",
     price: 15.99,
-    img: Refrigerator2,
+    img: Refrigerator3,
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
 ];
