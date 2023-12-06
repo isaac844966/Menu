@@ -37,7 +37,7 @@ const menu = [
     title: "buttermilk pancakes",
     category: "Gas Cooker",
     price: 15.99,
-    img: img2,
+    img: img3,
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
   {
