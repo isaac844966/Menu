@@ -18,8 +18,8 @@ const Wrapper = styled.div`
   }
   .logo {
     width: 7.5rem;
-    height: 1.5rem;
-    border-radius: 0.1rem;
+    height: 1.7rem;
+    border-radius: 0.2rem;
   }
   @media screen and (min-width: 966px) {
     .navbar {
