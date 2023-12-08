@@ -51,14 +51,14 @@ const menu = [
     img: AC,
     desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
   },
-  // {
-  //   id: 3,
-  //   title: "TV",
-  //   category: "TV",
-  //   price: 15.99,
-  //   img: TV1,
-  //   desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
-  // },
+  {
+    id: 3,
+    title: "Refrigerator",
+    category: "Refrigerator",
+    price: 15.99,
+    img: Refrigerator5,
+    desc: `I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed I'm baby woke mlkshk wolf bitters live-edge blue bottle, hammock freegan copper mug whatever cold-pressed `,
+  },
   {
     id: 4,
     title: "Sumec Firman Gen",
