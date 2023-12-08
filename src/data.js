@@ -61,7 +61,7 @@ const menu = [
   },
   {
     id: 4,
-    title: "Sumec Firman Gen",
+    title: "Sumec Firman",
     category: "Generator",
     price: "189,999",
     img: Gen,
