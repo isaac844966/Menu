@@ -17,13 +17,9 @@ const Wrapper = styled.div`
     font-weight: 600;
   }
   .logo {
-    background: var(--primary-500);
-    padding: 0.7rem 0.5rem;
-    text-align: center;
-    width: 4rem;
-    border-radius: 0.5rem;
-    font-weight: 700;
-    color: #fff;
+    width: 7.5rem;
+    height: 1.5rem;
+    border-radius: 0.1rem;
   }
   @media screen and (min-width: 966px) {
     .navbar {

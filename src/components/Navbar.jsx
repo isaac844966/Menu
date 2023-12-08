@@ -1,11 +1,13 @@
 import React from "react";
 import Wrapper from "../assets/Wrapper/Navbar";
+import logo from "../assets/images/logo.jpg";
 
 const Navbar = () => {
   return (
     <Wrapper>
       <div className='navbar'>
-        <div className='logo'>S</div>
+        <img src={logo} className='logo' />
+
         <div>
           <a
             href={`https://wa.me/${2347087536021}`}
