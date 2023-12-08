@@ -200,7 +200,7 @@ const menu = [
     id: 21,
     title: "TCL 55 Inch",
     category: "TV",
-    price: "250,000",
+    price: "450,000",
     img: TV7,
     desc: `Experience the brilliance of the TCL 55 Inch UHD Smart Android 4K Ultra Slim HDR Television priced at ₦450,000, and elevate your viewing with the TCL 55 Inch Ultra HD Android Smart QLED Google TV 55C645.  `,
   },
