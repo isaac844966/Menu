@@ -178,7 +178,7 @@ const menu = [
   {
     id: 19,
     title: "Snowsea Freezer",
-    category: "TV",
+    category: "Refrigerator",
     price: "280,000",
     img: Refrigerator6,
     desc: ` introducing the Snowsea Chest Freezer BD37OG with a 370L capacity,featuring rapid freezing, extended ice retention for up to 3  days,anti-rust construction,inner glass covering, and priced at ₦280,000`,
@@ -220,7 +220,7 @@ const menu = [
     id: 24,
     title: "Royal Chest Freezer",
     category: "Refrigerator",
-    price: "132,000.00",
+    price: "312,000.00",
     img: r,
     desc: `Introducing the Brand New Royal Chest Freezer Chest Freezer featuring an external compressor in a sleek silver finish. This spacious and efficient freezer offers ample storage capacity, ensuring your frozen goods are kept at optimal conditions. Upgrade to reliable freezing with  quality.`,
   },
