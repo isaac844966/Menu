@@ -36,7 +36,7 @@ const menu = [
     id: 2,
     title: "Sharp",
     category: "AC",
-    price: 15.99,
+    price: "275,000",
     img: AC,
     desc: `The Sharp 1.5HP Air Conditioner combines sleek design with powerful and efficient cooling for optimal comfort in medium-sized rooms. Upgrade your space with Sharp's reliable and innovative climate control solution. `,
   },
