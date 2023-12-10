@@ -19,8 +19,8 @@ import Refrigerator6 from "./assets/images/Refrigerator6.jpeg";
 import machine from "./assets/images/wahing-machine.jpeg";
 import machine1 from "./assets/images/wahing-machine1.jpeg";
 import SHOWGLASS from "./assets/images/SHOWGLASS.jpeg";
-import Refrigerator11 from "./assets/images/Refrigerator11.jpeg";
 import Burna from "./assets/images/Burna.jpeg";
+import r from "./assets/images/r.jpeg";
 
 const menu = [
   {
@@ -31,6 +31,7 @@ const menu = [
     desc: `infinix presents a cutting-edge 56-inch 4K UHD Smart TV priced at ₦521,050.Featuring Android TV,Smart Set capabilities,Hostspot,Screen Mirroring,Bluetooth,infinix Life app,and a sleek frameless design for am immersive 4K UD experience `,
     img: TV1,
   },
+
   {
     id: 2,
     title: "Sharp",
@@ -206,14 +207,7 @@ const menu = [
     img: SHOWGLASS,
     desc: `Experience superior cooling with the Skyrun Showcase Chiller. This appliance combines style and functionality to keep your perishables fresh and easily accessible. The Skyrun Showcase Chiller is designed for convenience and efficiency, making it an ideal addition to your home.`,
   },
-  {
-    id: 23,
-    title: " Royal Chest Freezer",
-    category: " Refrigerator",
-    price: "312,000",
-    img: Refrigerator11,
-    desc: `Introducing the Brand New Royal Chest Freezer featuring an external compressor in a sleek silver finish. This spacious and efficient freezer offers ample storage capacity, ensuring your frozen goods are kept at optimal conditions. Upgrade to reliable freezing with LG quality`,
-  },
+
   {
     id: 23,
     title: " Maxi 4 Burners Gas Cooker",
@@ -221,6 +215,14 @@ const menu = [
     price: "132,000",
     img: Burna,
     desc: `Elevate your culinary experience with the Maxi 4 Burners Gas Cooker. With a sleek black and grey design measuring 50cm x 50cm, this cooker combines style and functionality. Enjoy efficient and precise cooking with the reliability of Maxi's quality gas cooker`,
+  },
+  {
+    id: 24,
+    title: "Royal Chest Freezer",
+    category: "Refrigerator",
+    price: "132,000.00",
+    img: r,
+    desc: `Introducing the Brand New Royal Chest Freezer Chest Freezer featuring an external compressor in a sleek silver finish. This spacious and efficient freezer offers ample storage capacity, ensuring your frozen goods are kept at optimal conditions. Upgrade to reliable freezing with  quality.`,
   },
 ];
 export default menu;
